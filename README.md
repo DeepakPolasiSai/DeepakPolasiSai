@@ -1,5 +1,3 @@
-What up (HIMYM reference)
-
 Welcome to my little planet of the internet galaxy! I'm Deepak, your friendly full-time gamer and part-time Full-stack developer.
 
 A bit about me:
